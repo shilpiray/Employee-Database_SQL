@@ -8,3 +8,11 @@ Design the tables to hold data in the CSVs, import the CSVs into a SQL database,
 1. Data Modeling
 2. Data Engineering
 3. Data Analysis
+
+
+### Bonus
+Generate a visualization of the data by:
+
+1. Importing the SQL database into Pandas.
+2. Create a bar chart of average salary by title.
+3. Include a technical report in markdown format, in which the data engineering steps are outlined.
